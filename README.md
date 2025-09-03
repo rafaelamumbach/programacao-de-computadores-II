@@ -22,5 +22,4 @@ O que foi visto até agora:
 /
 ├── matrizes/             # Exercícios e exemplos sobre matrizes
 ├── strings/              # Manipulação de cadeias de caracteres
-├── structs/              # Definição e uso de structs
-└── README.md             # Este arquivo
+└── structs/              # Definição e uso de structs
