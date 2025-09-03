@@ -16,7 +16,7 @@ O objetivo é desenvolver os conhecimentos em C, aprendendo estruturas mais comp
 - Operadores bitwise  
 
 ---
-## 📂 Estrutura 
+#### 📂 Estrutura 
 O que foi visto até agora:
 ```bash
 /
