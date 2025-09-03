@@ -5,15 +5,15 @@ O objetivo é desenvolver os conhecimentos em C, aprendendo estruturas mais comp
 
 ---
 
-## 📚 Conteúdos
+#### 🖥️ Conteúdos
 
-- ✅ Matrizes  
-- ✅ Funções  
-- ✅ Strings  
-- ✅ Structs  
-- ✅ Alocação dinâmica de memória  
-- ✅ Manipulação de arquivos  
-- ✅ Operadores bitwise  
+- Matrizes  
+- Funções  
+- Strings  
+- Structs  
+- Alocação dinâmica de memória  
+- Manipulação de arquivos  
+- Operadores bitwise  
 
 ---
 ## 📂 Estrutura 
