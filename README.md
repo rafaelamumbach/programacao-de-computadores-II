@@ -24,4 +24,6 @@ O que foi visto até agora:
 ├── strings/              # Manipulação de cadeias de caracteres
 └── structs/              # Definição e uso de structs
 
+
+```
 ---
