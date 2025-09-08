@@ -1,4 +1,4 @@
-/*Faca um programa que leia uma matriz M[5][5] e calcule e escreva a soma dos elementos da diagonal principal.*/
+/*Faca um programa que leia uma matriz M[5][5] e calcule e escreva a soma dos elementos da diagonal secundaria.*/
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -24,7 +24,7 @@ void main(){
     
     for(i=0;i<N;i++){
         for(j=0; j<N; j++){
-            if(i==j){
+            if((i+j)==(N-1)){
                 soma+= mat[i][j];
             }
         }
