@@ -1,23 +1,24 @@
+/*Estrutura basica. Le e printa uma matriz informada pelo usuario.*/
 #include <stdio.h>
 #include <stdlib.h>
 
-void le_matriz(int mat[2][2]){
+#define N 5
+
+void le_matriz(int mat[N][N]){
     int i,j;
 
-    printf("Digite os elementos da matriz 2x2: ");
-    for(i=0;i<2;i++){
-        for(j=0;j<2;j++){
+    for(i=0;i<N;i++){
+        for(j=0;j<N;j++){
             scanf("%d", &mat[i][j]);
         }
     }
 }
 
-void printa_matriz(int mat[2][2]){
+void printa_matriz(int mat[N][N]){
     int i,j;
 
-    printf("\nMatriz digitada:\n");
-    for(i=0;i<2;i++){
-        for(j=0;j<2;j++){
+    for(i=0;i<N;i++){
+        for(j=0;j<N;j++){
             printf("% 4d", mat[i][j]);
         }
         printf("\n");
@@ -25,7 +26,7 @@ void printa_matriz(int mat[2][2]){
 }
 
 int main(){
-    int mat[2][2];
+    int mat[N][N];
 
     le_matriz(mat);
     printa_matriz(mat);

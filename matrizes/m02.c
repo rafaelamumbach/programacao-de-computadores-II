@@ -3,17 +3,25 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define N 5
+#define N 3
 
 void main(){
     int i, j, mat[N][N], soma=0;
     
-    //srand(time(NULL));
     for(i=0;i<N;i++){
         for(j=0; j<N; j++){
-            mat[i][j] = rand() % 100;
+            scanf("%d", &mat[i][j]);
         }
     }
+    
+    printf("\nMatriz informada: \n");
+    for(i=0;i<N;i++){
+        for(j=0; j<N; j++){
+            printf("% 4d", mat[i][j]);
+        }
+        printf("\n");
+    }
+    printf("\n");
     
     for(i=0;i<N;i++){
         for(j=0; j<N; j++){
@@ -22,6 +30,8 @@ void main(){
             }
         }
     }
+
     printf("Soma: %d", soma);
+    printf("\n");
     system("pause");
 }
