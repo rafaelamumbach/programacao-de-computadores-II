@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define N 3
+#define N 4
 
 int main(){
     int mat[N][N] = {{1,0,0,0},
