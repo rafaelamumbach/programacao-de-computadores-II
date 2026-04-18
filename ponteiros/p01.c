@@ -6,7 +6,7 @@
  * @responsavel.:::::::::: Rafaela Mumbach
  * 
  * @descricao.:::::::::::: Construa uma função que troque o valor de duas variáveis inteiras informadas como parâmetro.
- */
+*/
 
 #include <stdio.h>
 

@@ -1,0 +1,23 @@
+/*
+ * @conteudo.::::::::::::: Funções
+ * 
+ * @responsavel.:::::::::: Rafaela Mumbach
+ * 
+ * @descricao.:::::::::::: Anotações sobre o conteúdo de funções. Estrutura, passagem de parâmetros, retorno, etc.
+*/
+
+1. Diferença de passagem de parâmetros por valor e por referência:
+
+1.1 Passagem por valor: 'void trocar(int a, int b){}'
+- Nesse caso, as variáveis 'a' e 'b' são cópias dos valores passados como argumentos. Modificar 'a' ou 'b' dentro da função não afetará as variáveis originais fora da função.
+
+1.2 Passagem por referência: 'void trocar(int *a, int *b){}'
+- Aqui, 'a' e 'b' são ponteiros que apontam para as variáveis originais. Modificar o conteúdo apontado por 'a' ou 'b' dentro da função afetará as variáveis originais fora da função.
+
+2. Quando usar cada tipo de função:
+
+2.1 Função sem retorno (void):
+- Use quando a função realiza uma ação, mas não precisa retornar um valor. Exemplo: 'void imprimirMensagem(){}'
+
+2.2 Função com retorno (return x):
+- Use quando a função precisa retornar um valor. Exemplo: 'int somar(int a, int b){}' retorna a soma de 'a' e 'b'.
