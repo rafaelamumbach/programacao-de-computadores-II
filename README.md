@@ -1,10 +1,10 @@
-# .✦ ݁˖ Programação de Computadores II
+# .✦ ݁˖ programação de computadores II
 
-## 𑣲 Descrição do Projeto 
+## 𑣲 descrição do projeto 
 
 Este repositório contém exercícios práticos desenvolvidos para a disciplina de Programação de Computadores II. O objetivo é consolidar o aprendizado e a aplicação de conceitos fundamentais da linguagem C.
 
-## 𑣲 Tópicos Estudados 
+## 𑣲 tópicos estudados 
 
 *   **Matrizes:** Manipulação e operações.
 *   **Strings:** Funções e técnicas para o tratamento de cadeias de caracteres.
@@ -12,7 +12,7 @@ Este repositório contém exercícios práticos desenvolvidos para a disciplina 
 *   **Ponteiros:** Compreensão e aplicação de ponteiros para acesso direto à memória e manipulação de endereços.
 *   **Operadores Bitwise:** Aplicação de operadores a nível de bit para manipulação de dados em um nível mais baixo.
 
-## 𑣲 Estrutura do Repositório 
+## 𑣲 estrutura do repositório 
 
 ```
 .
