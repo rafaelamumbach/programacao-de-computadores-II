@@ -11,9 +11,9 @@
 #include <stdio.h>
 
 void trocar(int *a, int *b) {
-    int temp = *a; //temp=5
-    *a = *b;       //a=10
-    *b = temp;     //b=5
+    int temp = *a; // temp=5
+    *a = *b;       // a=10
+    *b = temp;     // b=5
 }
 
 int main() {
@@ -21,7 +21,7 @@ int main() {
 
     printf("Antes da troca: x = %d, y = %d\n", x, y);
     
-    trocar(&x, &y); //chamada da funcao
+    trocar(&x, &y); // chamada da funcao
 
     printf("Depois da troca: x = %d, y = %d\n", x, y);
 
