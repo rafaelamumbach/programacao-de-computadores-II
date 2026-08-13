@@ -1,4 +1,4 @@
-/* Ler 3 notas para cada um dos 10 alunos de uma turma. Após para cada aluno escreva as suas 3 notas e a média aritmética dessas notas. */
+/* Ler 3 notas para cada um dos 10 alunos de uma turma. Apos para cada aluno escreva as suas 3 notas e a media aritmetica dessas notas. */
 
 #include <stdio.h>
 
