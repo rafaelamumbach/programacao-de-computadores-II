@@ -1,10 +1,10 @@
 # Programação de Computadores II
 
-Este repositório reúne os materiais, exercícios, códigos e anotações desenvolvidos durante a disciplina de **Programação de Computadores II**, ministrada no meu curso de graduação.
+Este repositório reúne os exercícios desenvolvidos durante a disciplina de **Programação de Computadores II**, ministrada no meu curso de graduação.
 
 ## ⟡˖ Objetivo
 
-O objetivo deste repositório é acompanhar a evolução do aprendizado em programação, registrando os conteúdos estudados e as atividades desenvolvidas ao longo da disciplina.
+O objetivo deste repositório é acompanhar a evolução do aprendizado em programação, registrando os conteúdos estudados e as atividades desenvolvidas ao longo da disciplina em linguagem C.
 
 ## ⟡˖ Conteúdos
 
@@ -21,7 +21,7 @@ Durante a disciplina, serão abordados temas como:
 
 ## ⟡˖ Organização
 
-Os arquivos e atividades estarão organizados por assunto ou por aula, facilitando a consulta dos códigos e o acompanhamento da evolução dos estudos.
+Os arquivos estarão organizados por assunto ou por aula, facilitando a consulta dos códigos e o acompanhamento da evolução dos estudos.
 
 ## ⟡˖ Finalidade
 
